@@ -1,0 +1,9 @@
+﻿  module.cpp
+c:\users\пользователь\desktop\n_14\n_14\module.cpp(35): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\desktop\n_14\n_14\module.cpp(36): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\desktop\n_14\n_14\module.cpp(37): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\desktop\n_14\n_14\module.cpp(45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  n_14.cpp
+c:\users\пользователь\desktop\n_14\n_14\n_14.cpp(7): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  n_14.vcxproj -> C:\Users\Пользователь\Desktop\n_14\Debug\n_14.exe
