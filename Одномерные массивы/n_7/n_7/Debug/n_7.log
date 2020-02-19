@@ -1,0 +1,4 @@
+﻿  module.cpp
+c:\users\пользователь\desktop\n_7\n_7\module.cpp(184): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\desktop\n_7\n_7\module.cpp(187): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  n_7.vcxproj -> C:\Users\Пользователь\Desktop\n_7\Debug\n_7.exe
