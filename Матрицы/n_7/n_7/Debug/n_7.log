@@ -1,0 +1,4 @@
+﻿  module.cpp
+c:\users\пользователь\desktop\n_7\n_7\module.cpp(120): warning C4101: j: неиспользованная локальная переменная
+c:\users\пользователь\desktop\n_7\n_7\module.cpp(120): warning C4101: i: неиспользованная локальная переменная
+  n_7.vcxproj -> C:\Users\Пользователь\Desktop\n_7\Debug\n_7.exe

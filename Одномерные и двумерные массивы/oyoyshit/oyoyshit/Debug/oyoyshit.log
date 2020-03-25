@@ -1,0 +1,4 @@
+﻿  oyoyshit.cpp
+C:\Users\PC\Desktop\Одномерные и двумерные массивы\oyoyshit\oyoyshit\yyyy.h(6,18): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\PC\Desktop\Одномерные и двумерные массивы\oyoyshit\oyoyshit\oyoyshit.cpp(37,123): warning C4804: *=: небезопасное использование типа "bool" в операции
+  oyoyshit.vcxproj -> C:\Users\PC\Desktop\Одномерные и двумерные массивы\oyoyshit\Debug\oyoyshit.exe
